@@ -6,7 +6,7 @@ import { TiNews } from "react-icons/ti";
 import { motion } from "framer-motion";
 import { LinkPreview } from "./LinkPreview";
 import { achievements } from "../constants";
-import styles from "../style";
+
 
 const Achievements = () => {
   return (
