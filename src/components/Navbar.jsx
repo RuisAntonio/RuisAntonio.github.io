@@ -32,11 +32,7 @@ const Navbar = () => {
     >
       {/* Logo */}
       <a href="#home">
-        <img
-          src={RuisAntonio}
-          alt="Ruis Antonio"
-          className="w-[80px] h-[80px]"
-        />
+        <h4 className="text-gradient">Ruis Antonio</h4>
       </a>
 
       {/* List of links */}

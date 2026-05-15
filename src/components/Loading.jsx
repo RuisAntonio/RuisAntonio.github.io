@@ -15,7 +15,7 @@ const Loading = () => {
         ease: [0.25, 0.1, 0.25, 1.0],
       }}
     >
-      <img src={RuisAntonio} alt="Ruis Antonio" className="w-[80px] h-[80px]" />
+       <h4 className="text-gradient">Ruis Antonio</h4>
     </motion.div>
   );
 };
