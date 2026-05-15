@@ -2,7 +2,7 @@
 
 <img width="945" alt="image" src="./src/assets/intro.PNG">
 
-### Deployed link: https://ruisantonio.netlify.app/
+### Deployed link: https://ruis-portfolio.netlify.app/
 
 ## Table of Contents 📁
 
