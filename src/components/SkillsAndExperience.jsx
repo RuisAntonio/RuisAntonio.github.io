@@ -42,17 +42,6 @@ const Content = ({ info}) => {
   return (
     <div>
       <p className="font-poppins font-normal text-[14px] text-dimWhite mt-4">
-        {/* {text}{" "}
-        {link ? (
-          <a href={link} target="_blank">
-            <BsLink45Deg
-              size="1rem"
-              className="inline hover:text-teal-200"
-            ></BsLink45Deg>
-          </a>
-        ) : (
-          ""
-        )} */}
         {info}
       </p>
     </div>
@@ -68,11 +57,11 @@ const ExperienceCard = (props) => {
       transition={{ duration: 0.5, ease: "easeOut" }}
     >
       <div className="flex flex-row items-center mb-6">
-        <img
+        {/* <img
           src={props.logo}
           alt={props.organisation}
           className="w-[52px] h-[52px] rounded-full z-[2]"
-        />
+        /> */}
         <h4 className="font-poppins font-semibold text-[20px] text-gradient leading-[32px] ml-2">
           {props.organisation}
         </h4>

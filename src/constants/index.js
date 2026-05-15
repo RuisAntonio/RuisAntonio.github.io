@@ -386,7 +386,7 @@ export const skills = [
 // Add your current/past professional work experience here
 export const experiences = [
   {
-    organisation: "pingotel, Philippines",
+    organisation: "pingotel",
     logo: pingotel,
     positions: [
       {
