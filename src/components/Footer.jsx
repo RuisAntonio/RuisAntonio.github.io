@@ -19,6 +19,19 @@ const Footer = () => (
         >
         {aboutMe.tagLine}
         </p>
+        <div className="flex flex-row mt-4">
+          {socialMedia.map((social, index) => (
+            <a
+              href={social.link}
+              target="_blank"
+              key={social.id}
+              index={index}
+              className="text-white mr-5 text-[25px] hover:text-teal-200"
+            >
+              {React.createElement(social.icon)}
+            </a>
+          ))}
+        </div>
 
         <div className="grid grid-cols-2">
           {/* styles is a prop */}

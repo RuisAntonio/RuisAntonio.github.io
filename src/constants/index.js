@@ -832,11 +832,6 @@ export const extraCurricular = [
 // Links to your social media profiles
 export const socialMedia = [
   {
-    id: "social-media-1",
-    icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/RuisAntonio",
-  },
-  {
     id: "social-media-2",
     icon: AiFillGithub,
     link: "https://www.github.com/RuisAntonio",
@@ -844,13 +839,8 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:work.RuisAntonio@gmail.com",
+    link: "len.devteam@gmail.com",
   },
-  {
-    id: "social-media-4",
-    icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
-  }
 ];
 
 // Your professional summary
