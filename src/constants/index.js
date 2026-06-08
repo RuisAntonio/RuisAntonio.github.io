@@ -521,7 +521,7 @@ export const projects = [
     link: "https://www.temu.com/",
     image: hackathon_curation_agent,
     content:
-      "Ultra-low price global marketplace owned by Pinduoduo. Factory-direct products across 80+ countries. 'Shop like a Billionaire.'",
+      "Factory-direct products across 80+ countries. 'Shop like a Billionaire.'",
     stack: [
       {
         id: "proj2-icon-1",
