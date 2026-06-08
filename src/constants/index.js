@@ -831,6 +831,7 @@ export const extraCurricular = [
 
 // Links to your social media profiles
 export const socialMedia = [
+
   {
     id: "social-media-2",
     icon: AiFillGithub,
@@ -839,7 +840,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "len.devteam@gmail.com",
+    link: "mailto:len.devteam@gmail.com",
   },
 ];
 
